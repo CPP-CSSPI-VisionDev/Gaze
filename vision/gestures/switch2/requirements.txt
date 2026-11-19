@@ -1,0 +1,4 @@
+# Versions used for my standalone Mac demo. Root requirements are unchanged.
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+numpy==1.26.4
